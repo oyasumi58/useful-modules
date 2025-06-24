@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "terser-webpack-plugin": "^5.3.14",
+    "webpack": "^5.99.8",
+    "webpack-cli": "^6.0.1",
+    "webpack-merge": "^6.0.1"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^5.6.3"
+  },
+  "name": "development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyasumi58/webpack-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyasumi58/webpack-template/issues"
+  },
+  "homepage": "https://github.com/oyasumi58/webpack-template#readme"
+}
